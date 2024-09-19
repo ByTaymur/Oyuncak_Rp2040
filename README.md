@@ -112,4 +112,4 @@ Bu proje, ses çalma, LED animasyonu ve buton etkileşimlerini birleştiren Rasp
 
 ### Lisans
 
-Bu proje MIT Lisansı altında açık kaynaklıdır.
+Bu proje ByTaymur Lisansı altında açık kaynaklıdır.
