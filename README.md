@@ -55,7 +55,7 @@ This project is built for the Raspberry Pi Pico RP2040, combining audio playback
 
 ### License
 
-This project is open-source and licensed under the MIT License.
+This project is open-source and licensed under the ByTaymur License.
 
 ## Türkçe / Turkish
 
